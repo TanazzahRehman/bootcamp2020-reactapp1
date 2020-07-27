@@ -1,0 +1,21 @@
+.myname {
+    color: darkred;
+
+}
+.olevels{
+    color: darkred;
+    border-style: solid;
+    border-color: darkred;
+    border-width: thick;
+}
+.hssc{
+    color: darkred;
+    border-style: solid;
+    border-color: darkred;
+    border-width: thick;
+}
+.overall{
+    background-color:lightpink;
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+}
